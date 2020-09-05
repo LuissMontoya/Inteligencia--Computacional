@@ -1,0 +1,15 @@
+entropia completa del arbol 
+
+
+Generar 5(o n) modelos y tomar la matriz de confusion
+organizar en una tabla y comparar el porcentaje de acierto.
+
+
+dibujar el modelo en el ejercicio de clasificación
+
+
+articulo: 1 sola columna
+introducción
+desarrollo: secuencia que se usó para desplegar la información 
+conclusiones
+
